@@ -1,1 +1,1 @@
-# FitBrix
+# GetFit
